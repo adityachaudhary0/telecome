@@ -18,13 +18,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2. Inspect the dataset quickly:
 
-```bash
-python data_inspect.py cleaned.csv --rows 5
-```
-
-3. Open the notebooks with Jupyter Lab / Notebook:
+2. Open the notebooks with Jupyter Lab / Notebook:
 
 ```bash
 jupyter lab
